@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-Auto-ShiXiBeiAn
+Auto-职校家园
 </h1>
 <p align="center">
 实习备案自动打卡解决方案
@@ -40,7 +40,7 @@ Auto-ShiXiBeiAn
   - [打卡失败](#打卡失败)
   - [暂停自动打卡](#暂停自动打卡)
   - [修改配置文件](#修改配置文件)
-  - [保持最新代码](#保持最新代码)
+  - [保持最新软件](#保持最新软件)
 
 </br>
 </br>
